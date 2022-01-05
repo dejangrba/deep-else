@@ -13,4 +13,4 @@ __Keywords:__ AI Art, Anthropomorphism, Artificial Intelligence, Creativity, Dee
 MDPI Digital 2022, (2), 1: 1-32. ISSN 2673-6470. [https://doi.org/10.3390/digital2010001](https://doi.org/10.3390/digital2010001).
 
 ### References
-All references are available here: [http://www.memo.tv/works/learning-to-see](http://www.memo.tv/works/learning-to-see).
+All references are available here: [https://github.com/dejangrba/deep-else](https://github.com/dejangrba/deep-else).
